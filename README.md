@@ -8,7 +8,7 @@ https://github.com/Esteban297/Ecolapp_IETI
 
 ### Repositorio Usuarios
 
-https://github.com/NorbeyC/ecolapp-user
+https://github.com/NorbeyC/Ecolapp_User
 
 
 # Integrantes
